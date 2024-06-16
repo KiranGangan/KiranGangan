@@ -1,9 +1,9 @@
-# Kiran
-Hi there , fmt.Print("Kiran here")
-Looking for DevOps/Cloud technology related roles.
+
+**Hi there , fmt.Print("kiran here")**
+**Looking for DevOps/Cloud technology related roles.**
 DevOps Enthusiast || OpenSource Contributor || LearningInPublic || BuildingInPublic || Learning Python
 
-Skills: -> HardSkills*: Linux / Git and GitHub / Docker / Ansible / Terraform / Jenkins / GitHub Actions / Kubernetes / AWS / Python / Golang / YAML && Soft Skills: Team Player / Communication / Leadership / Adaptability.
+Skills: -> **Hard Skills***: Linux / Git and GitHub / Docker / Ansible / Terraform / Jenkins / GitHub Actions / Kubernetes / AWS / Python / Golang / YAML && **Soft Skills**: Team Player / Communication / Leadership / Adaptability.
 
 🔭 I’m working on DevOps and AWS Projects.
 
